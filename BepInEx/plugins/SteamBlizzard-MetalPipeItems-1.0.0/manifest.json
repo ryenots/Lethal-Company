@@ -1,0 +1,9 @@
+{
+    "name": "MetalPipeItems",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "Replaces the sound for dropping items with the soothing sound of of metal on ground.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
