@@ -1,0 +1,7 @@
+Take the Lethal Company folder and combine it with your existing one in your steam folders
+If you want to remove any specific mod just delete the plugin file in the plugin folder
+If you want to completely remove all mods, you can delete the BepInEx folder whenever you want
+
+You can also consider using the mod manager at thunderstore.io
+
+If you want the suits from More Suits to match up correctly with other players using this exact modpack you will need to delete your existing More Suits folder to only have these specific ones
