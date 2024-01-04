@@ -1,3 +1,5 @@
 *
 !BepInEx/plugins/*
+!BepInEx/core/*
+!BepInEx/config/BepInEx.cfg
 !*/
