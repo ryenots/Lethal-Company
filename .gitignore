@@ -1,4 +1,10 @@
-*
+/*
 !.gitignore
-!BepInEx/**
+!BepInEx/
+BepInEx/*
+!BepInEx/core/
+!BepInEx/core/**
+!BepInEx/plugins/
+!BepInEx/plugins/**
 !BepInEx/config/BepInEx.cfg
+BepInEx/plugins/steven4547466-YoutubeBoombox/
