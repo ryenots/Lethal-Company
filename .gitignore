@@ -1,8 +1,4 @@
-*
-!BepInEx/plugins/*
-!BepInEx/core/*
+/*
+!BepInEx/plugins/**
+!BepInEx/core/**
 !BepInEx/config/BepInEx.cfg
-BepInEx/plugins/steven4547466-YoutubeBoombox/data/ffmpeg.exe
-BepInEx/plugins/steven4547466-YoutubeBoombox/data/yt-dlp.exe
-!*/
-
