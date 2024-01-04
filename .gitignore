@@ -1,4 +1,4 @@
-/*
-!BepInEx/plugins/**
-!BepInEx/core/**
+*
+!.gitignore
+!BepInEx/**
 !BepInEx/config/BepInEx.cfg
